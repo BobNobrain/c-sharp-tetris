@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.AboutDialog.resources
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.NewRecordDialog.resources
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.RecordsForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Release\Tetris.exe
